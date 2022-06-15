@@ -24,11 +24,11 @@ I work as an accountant and I know how to take responsibility, I'm used to stubb
 
 
   
-#Education 
+# Education 
 * Economic School (accountant)
 * + Tyumen
 *   
-#Experience
+# Experience
 * founder of a small consulting company
 * PC and smartphon repair engineer
 * I assemble and paint plastic scale models for sale (also 3d  design & printing)
