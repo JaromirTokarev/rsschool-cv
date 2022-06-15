@@ -19,7 +19,7 @@ I work as an accountant and I know how to take responsibility, I'm used to stubb
 * 1C (built-in)
 * Pascal (basic)
 * Git
- ----
+
 # Code Example
 
 
