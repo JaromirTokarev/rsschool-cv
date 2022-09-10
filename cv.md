@@ -29,5 +29,5 @@ Nothing yet..
 
 # Language
 * Russian
-* English (A2)
+* English (A1)
 * Deutchland
