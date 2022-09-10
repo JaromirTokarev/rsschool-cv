@@ -8,6 +8,10 @@
 * [GitHub](https://github.com/JaromirTokarev)     
 * [Linkedin](https://www.linkedin.com/in/yaromir-tokarev-54278324b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BeAcvOTLWQVaXWnoO85lgUQ%3D%3D)
 *  EMAIL jaromirtokarev@gmail.com  
+
+# About me
+I want to learn new technologies and create interesting and convenient solutions, I am good at multitasking and thoroughly studying my mistakes, I got the skills while working as an accountant
+
 # Skills
 * HTML5
 * CSS3
