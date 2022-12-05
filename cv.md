@@ -21,6 +21,10 @@ I want to learn new technologies and create interesting and convenient solutions
 
 # Code Example
 
+
+
+
+
 Nothing yet..
 # Education and courses
 * Economic School (accountant)
